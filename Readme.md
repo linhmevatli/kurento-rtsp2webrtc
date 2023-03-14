@@ -104,3 +104,5 @@ Follow us on Twitter @[kurentoms].
 [LGPL License]: http://www.gnu.org/licenses/lgpl-2.1.html
 [Node.js]: http://nodejs.org/
 [website]: http://kurento.org
+
+https://codesandbox.io/s/hls-player-1icqul?file=/src/App.js
